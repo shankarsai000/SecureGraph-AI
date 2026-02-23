@@ -1,12 +1,9 @@
-# GitNexus
-
-<a href="https://trendshift.io/repositories/19809" target="_blank"><img src="https://trendshift.io/api/badge/repositories/19809" alt="abhigyanpatwari%2FGitNexus | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+# SecureGraph AI
 
 **Building git for agent context.**
 
 Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code.
 
-[![npm version](https://img.shields.io/npm/v/gitnexus.svg)](https://www.npmjs.com/package/gitnexus)
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
 
@@ -22,10 +19,6 @@ https://github.com/user-attachments/assets/172685ba-8e54-4ea7-9ad1-e31a3398da72
 ---
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=abhigyanpatwari/GitNexus&type=date&legend=top-left)](https://www.star-history.com/#abhigyanpatwari/GitNexus&type=date&legend=top-left)
-
-
 ## Two Ways to Use GitNexus
 
 |                   | **CLI + MCP**                                            | **Web UI**                                             |
@@ -225,8 +218,8 @@ A fully client-side graph explorer and AI chat. No server, no install — your c
 Or run locally:
 
 ```bash
-git clone https://github.com/abhigyanpatwari/gitnexus.git
-cd gitnexus/gitnexus-web
+git clone https://github.com/shankarsai000/SecureGraph-AI.git
+cd SecureGraph-AI/gitnexus-web
 npm install
 npm run dev
 ```

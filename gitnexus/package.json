@@ -2,16 +2,13 @@
   "name": "gitnexus",
   "version": "1.2.8",
   "description": "Graph-powered code intelligence for AI agents. Index any codebase, query via MCP or CLI.",
-  "author": "Abhigyan Patwari",
+  "author": "Shankar sai N",
   "license": "PolyForm-Noncommercial-1.0.0",
-  "homepage": "https://github.com/abhigyanpatwari/GitNexus#readme",
+  "homepage": "https://github.com/shankarsai000/SecureGraph-AI#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhigyanpatwari/GitNexus.git",
+    "url": "https://github.com/shankarsai000/SecureGraph-AI.git",
     "directory": "gitnexus"
-  },
-  "bugs": {
-    "url": "https://github.com/abhigyanpatwari/GitNexus/issues"
   },
   "keywords": [
     "mcp",

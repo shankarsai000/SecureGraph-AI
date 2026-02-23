@@ -1,7 +1,7 @@
 [project]
-name = "gitnexus-swebench-eval"
+name = "securegraph-ai-eval"
 version = "0.1.0"
-description = "SWE-bench evaluation harness with GitNexus code intelligence integration"
+description = "Evaluation harness for SecureGraph AI code intelligence project"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
