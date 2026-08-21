@@ -1,4 +1,4 @@
-# SecureGraph AI
+# GitNexus
 
 **Building git for agent context.**
 
