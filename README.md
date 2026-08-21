@@ -4,7 +4,7 @@
 
 Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code.
 
-[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+
 
 
 
@@ -470,3 +470,8 @@ The wiki generator reads the indexed graph structure, groups files into modules 
 - [transformers.js](https://huggingface.co/docs/transformers.js) — Browser ML
 - [Graphology](https://graphology.github.io/) — Graph data structures
 - [MCP](https://modelcontextprotocol.io/) — Model Context Protocol
+
+#my info:
+-Shankar sai N
+-let's connect on LinkedIn:www.linkedin.com/in/shankar-sai-n-b92729362
+
